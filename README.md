@@ -15,13 +15,11 @@
 ## Dataset Source
 
 - The dataset is sourced from [Kaggle: Market Basket Analysis](https://www.kaggle.com/datasets/aslanahmedov/market-basket-analysis).
-- Ensure the dataset file ('market_basket_data.csv') is downloaded and placed in the correct location.
+- Ensure the dataset file ('transaction.csv') is downloaded and placed in the correct location.
 
 ## Description
 
 This project performs Market Basket Analysis to uncover patterns in customer purchasing behavior. Each phase focuses on specific aspects of data loading, preprocessing, algorithm application, and rule generation.
-
-For any issues or inquiries, contact [Your Name] at your.email@example.com.
 
 ### Dataset Description
 
